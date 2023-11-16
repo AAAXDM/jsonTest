@@ -1,0 +1,49 @@
+{
+  "questions":
+  [
+    {
+      "question": "Какая страна имеет наибольшую площадь?",
+      "answers": [
+        {
+          "text": "Россия",
+          "correct": "true"
+        },
+        {
+          "text": "Сша",
+          "correct": "false"
+        },
+        {
+          "text": "Китай",
+          "correct": "false"
+        },
+        {
+          "text": "Канада",
+          "correct": "false"
+        }
+      ],
+      "background": "/Backgrounds/map.jpg"
+    },
+    {
+      "question": "в каком городе находится могила И. Канта?",
+      "answers": [
+        {
+          "text": "Гамбург",
+          "correct": "false"
+        },
+        {
+          "text": "Вашингтон",
+          "correct": "false"
+        },
+        {
+          "text": "Калининград",
+          "correct": "true"
+        },
+        {
+          "text": "Лондон",
+          "correct": "false"
+        }
+      ],
+      "background": "/Backgrounds/cathedral.jpg"
+    }
+  ]
+}
